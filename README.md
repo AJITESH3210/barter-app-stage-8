@@ -1,2 +1,2 @@
-# barter-app-stage-6
-project 82
+# This is the project for class 84. 
+Bell Icon added
